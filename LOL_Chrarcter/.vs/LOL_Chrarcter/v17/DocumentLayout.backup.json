@@ -22,12 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -38,8 +34,7 @@
               "RelativeToolTip": "LOL_Chrarcter\\Character.json.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-13T07:25:28.424Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-13T07:25:28.424Z"
             },
             {
               "$type": "Document",
@@ -49,7 +44,7 @@
               "RelativeDocumentMoniker": "LOL_Chrarcter\\Character.cs",
               "ToolTip": "C:\\Users\\gudrm\\GitHub\\25_CSharp\\LOL_Chrarcter\\LOL_Chrarcter\\Character.cs",
               "RelativeToolTip": "LOL_Chrarcter\\Character.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-13T07:05:43.682Z",
               "EditorCaption": ""
@@ -62,10 +57,14 @@
               "RelativeDocumentMoniker": "LOL_Chrarcter\\Program.cs",
               "ToolTip": "C:\\Users\\gudrm\\GitHub\\25_CSharp\\LOL_Chrarcter\\LOL_Chrarcter\\Program.cs",
               "RelativeToolTip": "LOL_Chrarcter\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAADwvyQAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-13T06:23:10.374Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

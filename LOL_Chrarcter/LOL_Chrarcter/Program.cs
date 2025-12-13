@@ -10,7 +10,7 @@ string tolderpath = "C:\\Users\\gudrm\\GitHub\\25_CSharp\\LOL_Chrarcter\\LOL_Chr
 string filename = "Character.json.json";
 
 // 폴더 경로와 파일이름을 합치기(string fullparh 입력 후 자동완성)
-string fullpath = System.IO.Path.Combine(tolderpath, filename);
+string fullpath = Path.Combine(tolderpath, filename);
 
 //Console.WriteLine(fullpath);
 
