@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gudrm\\GitHub\\25_CSharp\\LOL_Chrarcter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9BD790-9536-451A-9E6E-D0BA3A519D9E}|LOL_Chrarcter\\LOL_Chrarcter.csproj|c:\\users\\gudrm\\github\\25_csharp\\lol_chrarcter\\lol_chrarcter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9BD790-9536-451A-9E6E-D0BA3A519D9E}|LOL_Chrarcter\\LOL_Chrarcter.csproj|solutionrelative:lol_chrarcter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9BD790-9536-451A-9E6E-D0BA3A519D9E}|LOL_Chrarcter\\LOL_Chrarcter.csproj|c:\\users\\gudrm\\github\\25_csharp\\lol_chrarcter\\lol_chrarcter\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A9BD790-9536-451A-9E6E-D0BA3A519D9E}|LOL_Chrarcter\\LOL_Chrarcter.csproj|solutionrelative:lol_chrarcter\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A9BD790-9536-451A-9E6E-D0BA3A519D9E}|LOL_Chrarcter\\LOL_Chrarcter.csproj|c:\\users\\gudrm\\github\\25_csharp\\lol_chrarcter\\lol_chrarcter\\character.json.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9A9BD790-9536-451A-9E6E-D0BA3A519D9E}|LOL_Chrarcter\\LOL_Chrarcter.csproj|solutionrelative:lol_chrarcter\\character.json.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Character.json.json",
+              "DocumentMoniker": "C:\\Users\\gudrm\\GitHub\\25_CSharp\\LOL_Chrarcter\\LOL_Chrarcter\\Character.json.json",
+              "RelativeDocumentMoniker": "LOL_Chrarcter\\Character.json.json",
+              "ToolTip": "C:\\Users\\gudrm\\GitHub\\25_CSharp\\LOL_Chrarcter\\LOL_Chrarcter\\Character.json.json",
+              "RelativeToolTip": "LOL_Chrarcter\\Character.json.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-13T07:25:28.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\gudrm\\GitHub\\25_CSharp\\LOL_Chrarcter\\LOL_Chrarcter\\Character.cs",
+              "RelativeDocumentMoniker": "LOL_Chrarcter\\Character.cs",
+              "ToolTip": "C:\\Users\\gudrm\\GitHub\\25_CSharp\\LOL_Chrarcter\\LOL_Chrarcter\\Character.cs",
+              "RelativeToolTip": "LOL_Chrarcter\\Character.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T07:05:43.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gudrm\\GitHub\\25_CSharp\\LOL_Chrarcter\\LOL_Chrarcter\\Program.cs",
+              "RelativeDocumentMoniker": "LOL_Chrarcter\\Program.cs",
+              "ToolTip": "C:\\Users\\gudrm\\GitHub\\25_CSharp\\LOL_Chrarcter\\LOL_Chrarcter\\Program.cs",
+              "RelativeToolTip": "LOL_Chrarcter\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvx8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-13T06:23:10.374Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "Label": "1",
+    "Name": "가렌",
+    "Role_1": "전사",
+    "Role_2": "탱커",
+    "Passive": "인내심",
+    "SkIll_Q": "결정타",
+    "SkIll_w": "용기",
+    "SkIll_E": "심판",
+    "SkIll_R": "데마시아의정의",
+    "Skin ": "17 "
+  },
+  {
+    "Label": "2",
+    "Name": "갈리오",
+    "Role_1": "탱커",
+    "Role_2": "마법사",
+    "Passive": "석상의강타",
+    "SkIll_Q": "전장의돌풍",
+    "SkIll_w": "듀란드의방패",
+    "SkIll_E": "정의의주먹",
+    "SkIll_R": "영웅출현",
+    "Skin ": "10 "
+  },
+  {
+    "Label": "3",
+    "Name": "갱플랭크",
+    "Role_1": "전사",
+    "Role_2": "X",
+    "Passive": "불의심판",
+    "SkIll_Q": "혀어어어업상",
+    "SkIll_w": "괴혈병치료",
+    "SkIll_E": "화약통",
+    "SkIll_R": "포탄세례",
+    "Skin ": "13 "
+  },
+  {
+    "Label": "4",
+    "Name": "그라가스",
+    "Role_1": "전사",
+    "Role_2": "마법사",
+    "Passive": "서비스시간",
+    "SkIll_Q": "술통굴리기",
+    "SkIll_w": "취중분노",
+    "SkIll_E": "몸통박치기",
+    "SkIll_R": "술통폭발",
+    "Skin ": "15 "
+  },
+  {
+    "Label": "5",
+    "Name": "그레이브즈",
+    "Role_1": "원거리딜러",
+    "Role_2": "X",
+    "Passive": "새로운운명",
+    "SkIll_Q": "화약역류",
+    "SkIll_w": "연막탄",
+    "SkIll_E": "빨리뽑기",
+    "SkIll_R": "무고한희생자",
+    "Skin ": "14 "
+  },
+  {
+    "Label": "6",
+    "Name": "그웬",
+    "Role_1": "전사",
+    "Role_2": "X",
+    "Passive": "가의난도질",
+    "SkIll_Q": "싹둑싹둑",
+    "SkIll_w": "신성한안개",
+    "SkIll_E": "돌격가위",
+    "SkIll_R": "바느질",
+    "Skin ": "6 "
+  },
+  {
+    "Label": "7",
+    "Name": "나르",
+    "Role_1": "전사",
+    "Role_2": "탱커",
+    "Passive": "분노유전자",
+    "SkIll_Q": "부메랑던지기_돌덩이던지기",
+    "SkIll_w": "슝슝_쿵쾅",
+    "SkIll_E": "폴짝_우지끈",
+    "SkIll_R": "나르",
+    "Skin ": "11 "
+  },
+  {
+    "Label": "8",
+    "Name": "나미",
+    "Role_1": "서포터",
+    "Role_2": "마법사",
+    "Passive": "밀려오는파도",
+    "SkIll_Q": "물의감옥",
+    "SkIll_w": "밀물썰물",
+    "SkIll_E": "파도소환사의축복",
+    "SkIll_R": "해일",
+    "Skin ": "15 "
+  },
+  {
+    "Label": "9",
+    "Name": "나서스",
+    "Role_1": "전사",
+    "Role_2": "탱커",
+    "Passive": "영혼의포식자",
+    "SkIll_Q": "흡수의일격",
+    "SkIll_w": "쇠약",
+    "SkIll_E": "영혼의불길",
+    "SkIll_R": "사막의분노",
+    "Skin ": "14 "
+  },
+  {
+    "Label": "10",
+    "Name": "나피리",
+    "Role_1": "암살자",
+    "Role_2": "전사",
+    "Passive": "늘어나는무리",
+    "SkIll_Q": "다르킨단검",
+    "SkIll_w": "무리의부름",
+    "SkIll_E": "적출",
+    "SkIll_R": "사냥개의추적",
+    "Skin ": "4"
+  }
+]
