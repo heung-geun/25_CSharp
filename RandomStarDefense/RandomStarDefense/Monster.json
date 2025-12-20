@@ -1,0 +1,74 @@
+[
+  {
+    "Lable": 1,
+    "Name": "코뿔소",
+    "Hp": 20,
+    "Shield": 5,
+    "Speed": 1,
+    "Type ": "일반몹 "
+  },
+  {
+    "Lable": 2,
+    "Name": "고양이",
+    "Hp": 40,
+    "Shield": 5,
+    "Speed": 1,
+    "Type ": "일반몹 "
+  },
+  {
+    "Lable": 3,
+    "Name": "곰",
+    "Hp": 60,
+    "Shield": 5,
+    "Speed": 1,
+    "Type ": "일반몹 "
+  },
+  {
+    "Lable": 4,
+    "Name": "거미",
+    "Hp": 80,
+    "Shield": 5,
+    "Speed": 1,
+    "Type ": "일반몹 "
+  },
+  {
+    "Lable": 5,
+    "Name": "라바",
+    "Hp": 100,
+    "Shield": 5,
+    "Speed": 1,
+    "Type ": "일반몹 "
+  },
+  {
+    "Lable": 6,
+    "Name": "드랍쉽",
+    "Hp": 300,
+    "Shield": 50,
+    "Speed": 1.5,
+    "Type ": "중간보스 "
+  },
+  {
+    "Lable": 7,
+    "Name": "셔틀",
+    "Hp": 300,
+    "Shield": 50,
+    "Speed": 2,
+    "Type ": "중간보스 "
+  },
+  {
+    "Lable": 8,
+    "Name": "캐리어",
+    "Hp": 1000,
+    "Shield": 150,
+    "Speed": 0.5,
+    "Type ": "보스 "
+  },
+  {
+    "Lable": 9,
+    "Name": "배틀쿠르져",
+    "Hp": 1000,
+    "Shield": 150,
+    "Speed": 0.75,
+    "Type ": "보스"
+  }
+]

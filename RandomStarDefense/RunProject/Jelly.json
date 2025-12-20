@@ -1,0 +1,17 @@
+[
+  {
+    "Speed": 1,
+    "Name": "@SP@",
+    "Score ": 500
+  },
+  {
+    "Speed": 3,
+    "Name": "#NO#",
+    "Score ": 300
+  },
+  {
+    "Speed": 5,
+    "Name": "$SL$",
+    "Score ": 100
+  }
+]

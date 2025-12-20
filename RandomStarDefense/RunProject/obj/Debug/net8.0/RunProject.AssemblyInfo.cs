@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("RandomStarDefense")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("RunProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f7611f9fc1e88399bfbfb20db4d5f46c8286cf8")]
-[assembly: System.Reflection.AssemblyProductAttribute("RandomStarDefense")]
-[assembly: System.Reflection.AssemblyTitleAttribute("RandomStarDefense")]
+[assembly: System.Reflection.AssemblyProductAttribute("RunProject")]
+[assembly: System.Reflection.AssemblyTitleAttribute("RunProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment 클래스에서 생성되었습니다.

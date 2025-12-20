@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\gudrm\\GitHub\\25_CSharp\\RandomStarDefense\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C6051B3-E83D-4A5C-A77D-6EB74424C473}|RandomStarDefense\\RandomStarDefense.csproj|c:\\users\\gudrm\\github\\25_csharp\\randomstardefense\\randomstardefense\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C6051B3-E83D-4A5C-A77D-6EB74424C473}|RandomStarDefense\\RandomStarDefense.csproj|solutionrelative:randomstardefense\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CFEDF45A-EA65-4F7A-9DBA-FF6D323F678A}|RunProject\\RunProject.csproj|c:\\users\\gudrm\\github\\25_csharp\\randomstardefense\\runproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFEDF45A-EA65-4F7A-9DBA-FF6D323F678A}|RunProject\\RunProject.csproj|solutionrelative:runproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C6051B3-E83D-4A5C-A77D-6EB74424C473}|RandomStarDefense\\RandomStarDefense.csproj|c:\\users\\gudrm\\github\\25_csharp\\randomstardefense\\randomstardefense\\monstar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C6051B3-E83D-4A5C-A77D-6EB74424C473}|RandomStarDefense\\RandomStarDefense.csproj|solutionrelative:randomstardefense\\monstar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CFEDF45A-EA65-4F7A-9DBA-FF6D323F678A}|RunProject\\RunProject.csproj|c:\\users\\gudrm\\github\\25_csharp\\randomstardefense\\runproject\\jelly.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{CFEDF45A-EA65-4F7A-9DBA-FF6D323F678A}|RunProject\\RunProject.csproj|solutionrelative:runproject\\jelly.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C6051B3-E83D-4A5C-A77D-6EB74424C473}|RandomStarDefense\\RandomStarDefense.csproj|c:\\users\\gudrm\\github\\25_csharp\\randomstardefense\\randomstardefense\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C6051B3-E83D-4A5C-A77D-6EB74424C473}|RandomStarDefense\\RandomStarDefense.csproj|solutionrelative:randomstardefense\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CFEDF45A-EA65-4F7A-9DBA-FF6D323F678A}|RunProject\\RunProject.csproj|c:\\users\\gudrm\\github\\25_csharp\\randomstardefense\\runproject\\jelly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFEDF45A-EA65-4F7A-9DBA-FF6D323F678A}|RunProject\\RunProject.csproj|solutionrelative:runproject\\jelly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,50 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Monstar.cs",
-              "DocumentMoniker": "C:\\Users\\gudrm\\GitHub\\25_CSharp\\RandomStarDefense\\RandomStarDefense\\Monstar.cs",
-              "RelativeDocumentMoniker": "RandomStarDefense\\Monstar.cs",
-              "ToolTip": "C:\\Users\\gudrm\\GitHub\\25_CSharp\\RandomStarDefense\\RandomStarDefense\\Monstar.cs",
-              "RelativeToolTip": "RandomStarDefense\\Monstar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T21:00:47.657Z",
+              "Title": "Jelly.json",
+              "DocumentMoniker": "C:\\Users\\gudrm\\GitHub\\25_CSharp\\RandomStarDefense\\RunProject\\Jelly.json",
+              "RelativeDocumentMoniker": "RunProject\\Jelly.json",
+              "ToolTip": "C:\\Users\\gudrm\\GitHub\\25_CSharp\\RandomStarDefense\\RunProject\\Jelly.json",
+              "RelativeToolTip": "RunProject\\Jelly.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-20T08:11:56.295Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Character.cs",
-              "DocumentMoniker": "C:\\Users\\gudrm\\GitHub\\25_CSharp\\RandomStarDefense\\RandomStarDefense\\Character.cs",
-              "RelativeDocumentMoniker": "RandomStarDefense\\Character.cs",
-              "ToolTip": "C:\\Users\\gudrm\\GitHub\\25_CSharp\\RandomStarDefense\\RandomStarDefense\\Character.cs",
-              "RelativeToolTip": "RandomStarDefense\\Character.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAgwA0AAAAAAAAAAAAAAA==",
+              "Title": "Jelly.cs",
+              "DocumentMoniker": "C:\\Users\\gudrm\\GitHub\\25_CSharp\\RandomStarDefense\\RunProject\\Jelly.cs",
+              "RelativeDocumentMoniker": "RunProject\\Jelly.cs",
+              "ToolTip": "C:\\Users\\gudrm\\GitHub\\25_CSharp\\RandomStarDefense\\RunProject\\Jelly.cs",
+              "RelativeToolTip": "RunProject\\Jelly.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T20:51:27.6Z",
+              "WhenOpened": "2025-12-20T05:56:14.282Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gudrm\\GitHub\\25_CSharp\\RandomStarDefense\\RandomStarDefense\\Program.cs",
-              "RelativeDocumentMoniker": "RandomStarDefense\\Program.cs",
-              "ToolTip": "C:\\Users\\gudrm\\GitHub\\25_CSharp\\RandomStarDefense\\RandomStarDefense\\Program.cs",
-              "RelativeToolTip": "RandomStarDefense\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA3AAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\gudrm\\GitHub\\25_CSharp\\RandomStarDefense\\RunProject\\Program.cs",
+              "RelativeDocumentMoniker": "RunProject\\Program.cs",
+              "ToolTip": "C:\\Users\\gudrm\\GitHub\\25_CSharp\\RandomStarDefense\\RunProject\\Program.cs",
+              "RelativeToolTip": "RunProject\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADUAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-13T20:04:17.454Z",
+              "WhenOpened": "2025-12-20T05:39:23.108Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
