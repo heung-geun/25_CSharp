@@ -22,10 +22,7 @@ namespace RunProject
             moveTick++;
             if (Speed <= moveTick)
             {
-
                 x--;
-
-
                 if(x <= 0)
                 {
                     x = 50;
